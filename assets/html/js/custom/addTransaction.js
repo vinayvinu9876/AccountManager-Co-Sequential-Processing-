@@ -9,7 +9,7 @@ function validDate(date){
             showNotification("Date "+date[0]+" is not valid","Transaction Manager");
             return false;
         }
-        else if(parseInt(date[1])>12 || parseInt(date[1])<12){
+        else if(parseInt(date[1])>12 || parseInt(date[1])<1){
             showNotification("Month "+date[1]+" is not valid","Transaction Manager");
             return false;
         }
