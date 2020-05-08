@@ -1,4 +1,8 @@
-#include<bits/stdc++.h>
+#include<iostream>
+#include<list>
+#include<string>
+#include<fstream>
+#include<map>
 #include <stdexcept> 
 #include "FileManager.cpp"
 #include "MasterRecordManager.cpp"

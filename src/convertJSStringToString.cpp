@@ -1,5 +1,6 @@
-#include<bits/stdc++.h> 
+#include<iostream> 
 #include <JavaScriptCore/JavaScript.h>
+#include<string>
 #pragma once
 
 using namespace std;
